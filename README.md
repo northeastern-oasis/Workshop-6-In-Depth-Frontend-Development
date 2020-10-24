@@ -39,6 +39,7 @@ We will be working to finish implementing a simple app to test web API's. Starti
 
 Well done finishing the workshop! You now have more skills to continue creating React applications and access web resources with them. Though today we accessed public web API's, you can also use the same strategies to access your own backend API! To continue learning, we'd recommend the following resources, same as the ones we recommended from Workshop 4. There are a ton of great React/frontend learning resources out there!
 
+  *   Huge list of public APIs to play around with: [https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
   *   Read through the React docs, starting [here](https://reactjs.org/docs/hello-world.html). Now that you’ve gotten an introduction to the library learning more from it’s documentation will be much easier
   *   Check out the Oasis Starting Guide section on frontend development [here](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
   *   Check out [create-react-app](https://create-react-app.dev/docs/getting-started/) for an easy way to get started with making a full-fledged React app on your machine
