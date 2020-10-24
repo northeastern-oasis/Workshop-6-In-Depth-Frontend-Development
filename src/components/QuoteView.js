@@ -32,10 +32,10 @@ function QuoteView() {
   }, []);
 
   return (
-    <div class="section">
+    <div className="section">
       <h2>Quote of the day:</h2>
 
-      <blockquote class="fancy">{quote}</blockquote>
+      <blockquote className="fancy">{quote}</blockquote>
       <i> - {author} </i>
     </div>
   );

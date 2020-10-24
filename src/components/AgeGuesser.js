@@ -26,7 +26,7 @@ function AgeGuesser() {
 
 
   return (
-    <div class="section">
+    <div className="section">
       <h2>Let us guess your age!</h2>
       <button onClick={updateAge}>Click here!</button>
 
